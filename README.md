@@ -5,7 +5,7 @@ Author: Yichun Liu
 
 ## Code Portfolio
 
-### Week 2
+#### Week 2
 Chapter 9 Importing, saving and managing data
 
 ### Week 3
